@@ -1,0 +1,22 @@
+{
+  "catalog": [
+    {
+      "id": "DS-001",
+      "name": "Customer Feedback",
+      "hub_id": "zhuq41/github_fetch_huggingface_terminal_9107_8be428b7_derived_customer_feedback",
+      "domain": "retail customer feedback"
+    },
+    {
+      "id": "DS-002",
+      "name": "Product Reviews",
+      "hub_id": "zhuq41/github_fetch_huggingface_terminal_9107_8be428b7_derived_product_reviews",
+      "domain": "retail product reviews"
+    },
+    {
+      "id": "DS-003",
+      "name": "Support Tickets",
+      "hub_id": "zhuq41/github_fetch_huggingface_terminal_9107_8be428b7_derived_support_tickets",
+      "domain": "retail support tickets"
+    }
+  ]
+}
